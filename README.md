@@ -13,18 +13,16 @@ realizando requisições assíncronas ao servidor. O ajax é uma combinação de
 # Tecnologias utilizadas
 ## Back end
 - PHP
-- Ajax
 - MySql
 
 ## Front end
-- HTML5
-- CSS3
 - BOOTSTRAP
 - JS
+- AJAX
 
 ## Implantação em produção
 - Back end: PHP
-- Front end web: JS
+- Front end web: Ajax
 - Banco de dados: MySql
 
 # Autor
