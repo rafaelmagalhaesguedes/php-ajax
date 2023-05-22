@@ -1,5 +1,5 @@
 <?php
-require_once "config.php";
+require_once "includes/config.php";
 
 // Conexão com a base de dados
 $bd = new BaseDeDados();
