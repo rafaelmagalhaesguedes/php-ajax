@@ -1,7 +1,4 @@
 
-require_once "config.php";
-$usuario = new Usuario();
-$usuario->salvarUsuario($_POST["id"], $_POST["nome"], $_POST["email"]);
 // Função para carregar a lista de usuários via AJAX
 function carregarUsuarios() {
     $.ajax({
