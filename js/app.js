@@ -2,7 +2,7 @@
 // Função para carregar a lista de usuários via AJAX
 function carregarUsuarios() {
     $.ajax({
-        url: "listar_usuarios.php",
+        url: "includes/listar_usuarios.php",
         success: function(data) {
             $("#tabela-usuarios").html(data);
         }
@@ -17,7 +17,7 @@ function salvarUsuario() {
 
     $.ajax({
         type: "POST",
-        url: "salvar_usuarios.php",
+        url: "includes/salvar_usuarios.php",
         data: {
             id: id,
             nome: nome,
@@ -35,7 +35,7 @@ function excluirUsuario(id) {
     if (confirm("Tem certeza que deseja excluir este usuário?")) {
         $.ajax({
             type: "POST",
-            url: "excluir_usuario.php",
+            url: "includes/excluir_usuario.php",
             data: {
                 id: id
             },
