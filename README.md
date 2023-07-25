@@ -1,4 +1,4 @@
-# Controle de Usuários
+# Teste PHP + AJAX
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rafaelmagalhaesguedes/controle-de-usuarios-php-ajax/blob/main/LICENSE) 
 
 # Sobre o projeto
