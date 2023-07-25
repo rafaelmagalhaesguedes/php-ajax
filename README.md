@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Controle de Usuários é um sistema simples para gerenciar usuários. O sistema é capaz de cadastrar, editar, excluir e buscar informações na base dade dados. É um exemplo básico de CRUD(create, read, update e delete). O seu diferencial é o uso da tecnologia Ajax para tratar as informações, sendo
+Testando PHP + AJAX com o sistema de controle de Usuários, um sistema simples para gerenciar usuários. O sistema é capaz de cadastrar, editar, excluir e buscar informações na base dade dados. É um exemplo básico de CRUD(create, read, update e delete). O seu diferencial é o uso da tecnologia Ajax para tratar as informações, sendo
 capaz de atualizar os dados da página sem precisar recarregá-la inteira novamente. Ou seja,
 realizando requisições assíncronas ao servidor. O ajax é uma combinação de várias tecnologias, incluindo JavaScript, JSON e o objeto XMLHttpRequest.
 
